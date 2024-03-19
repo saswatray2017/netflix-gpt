@@ -24,4 +24,4 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "spanish", name: "Spanish" },
 ];
 
-export const OPENAI_KEY = "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"
+export const OPENAI_KEY = "Generate new open ai key via login to open ai portal"
